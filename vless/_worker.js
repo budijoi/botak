@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 const proxyListURL = 'https://raw.githubusercontent.com/jaka2m/botak/refs/heads/main/cek/proxyList.txt';
-const namaWeb = 'GEO PROJECT'
-const telegramku = 'https://t.me/sampiiiiu'
+const namaWeb = 'MOCHVPN PROJECT'
+const telegramku = 'https://t.me/budijoi'
 const wildcards = [
   'ava.game.naver.com',
   'business.blibli.com',
@@ -211,7 +211,7 @@ export default {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>GeoVPN - Your Ultimate VPN Solution</title>
+  <title>MOCHVPN - Your Ultimate VPN Solution</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <noscript>
       <style amp-boilerplate>
